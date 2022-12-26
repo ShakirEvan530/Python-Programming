@@ -45,6 +45,4 @@ while(i<=20):
     print("Bangladesh")
     i=i+2
 """
- sum = 1
- while(sum<=20):
-     sum = sum + 2
+ 
